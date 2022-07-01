@@ -1,0 +1,21 @@
+{
+  "name": "mailclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "base64-stream": "^1.0.0",
+    "imapflow": "^1.0.100",
+    "node-imap": "^0.9.6",
+    "nodemailer": "^6.7.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
